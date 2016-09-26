@@ -3,7 +3,7 @@ flapper-news
 A MEAN tutorial where a user can log in, create posts, comment in posts, and upvote posts and comments. Users, posts, and comments are stored in MongoDB.
 https://thinkster.io/mean-stack-tutorial
 
-Installation
+<b>Installation</b>
 
 Installation instructions come from this site: https://thinkster.io/mean-stack-tutorial
 
