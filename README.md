@@ -45,7 +45,7 @@ TODO: Write history
 
 Dan Solomon
 
-Tutorial by:
+Tutorial by: <br>
 Eric Simons   
 Matt Green   
 Albert Pai <br>
