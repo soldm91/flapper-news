@@ -1,4 +1,4 @@
-flapper-news
+<b>flapper-news</b>
 
 A MEAN tutorial where a user can log in, create posts, comment in posts, and upvote posts and comments. Users, posts, and comments are stored in MongoDB.
 https://thinkster.io/mean-stack-tutorial
@@ -17,7 +17,7 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#get-mongodb
 
 Download and extract the zip file of this repository to your desired directory
 
-Usage
+<b>Usage</b>
 
 In a command prompt, run the following command to start MongoDB:
 
@@ -33,15 +33,15 @@ http://localhost:3000/
 
 You will have to register a user before you can create and upvote comments and posts. 
 
-Contributing
+<b>Contributing</b>
 
-Fork it!
+Fork it and have fun.
 
-History
+<b>History</b>
 
 TODO: Write history
 
-Credits
+<b>Credits</b>
 
 Dan Solomon
 
@@ -51,6 +51,6 @@ Matt Green
 Albert Pai
 https://thinkster.io/mean-stack-tutorial
 
-License
+<b>License</b>
 
 see LICENSE file
