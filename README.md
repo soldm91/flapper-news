@@ -48,7 +48,7 @@ Dan Solomon
 Tutorial by:
 Eric Simons   
 Matt Green   
-Albert Pai
+Albert Pai <br>
 https://thinkster.io/mean-stack-tutorial
 
 <b>License</b>
